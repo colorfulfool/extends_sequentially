@@ -1,5 +1,5 @@
 # extends_sequentially
-Multiple inheritance for CoffeeScript, Python-style
+Multiple inheritance for CoffeeScript, Python-style.
 
 With this lib, you can inherit several classes at once and have everything resolved left-to-right:
 
