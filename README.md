@@ -9,10 +9,10 @@ class Tesla extends sequentially ElectroEngineMixin, TouchscreenMixin, Car
     if options.ludicrous_mode? then 2.8 else 3.1
 ```
 
-## Install
+## Installation
 
 Copy it, `require` it into your code. That's it.
 
 ## Authorship
 
-Code written by @darrrk: https://gist.github.com/darrrk/75d6a6a4d431e7182888.
+Code written by [@darrrk](https://github.com/darrrk): https://gist.github.com/darrrk/75d6a6a4d431e7182888.
